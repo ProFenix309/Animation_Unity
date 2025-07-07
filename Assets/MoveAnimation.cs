@@ -24,7 +24,7 @@ public class MoveAnimation : MonoBehaviour
         }
         if (!_move && velocity > 0)
         {
-            velocity += Time.deltaTime * deseleretion;
+            velocity -= Time.deltaTime * deseleretion;
             animatorController.SetFloat("Velocity", velocity);
         }
 

@@ -474,9 +474,81 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7794237821928316840, guid: a0ffc66ff4d18914ca43e8cc3ce2701c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 30.333931
+      objectReference: {fileID: 0}
+    - target: {fileID: -7794237821928316840, guid: a0ffc66ff4d18914ca43e8cc3ce2701c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 63.116993
+      objectReference: {fileID: 0}
+    - target: {fileID: -7794237821928316840, guid: a0ffc66ff4d18914ca43e8cc3ce2701c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 95.750175
+      objectReference: {fileID: 0}
+    - target: {fileID: -7084093436628861447, guid: a0ffc66ff4d18914ca43e8cc3ce2701c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 73.172485
+      objectReference: {fileID: 0}
+    - target: {fileID: -7084093436628861447, guid: a0ffc66ff4d18914ca43e8cc3ce2701c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -114.67108
+      objectReference: {fileID: 0}
+    - target: {fileID: -7084093436628861447, guid: a0ffc66ff4d18914ca43e8cc3ce2701c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -107.03126
+      objectReference: {fileID: 0}
+    - target: {fileID: -5913172463669914825, guid: a0ffc66ff4d18914ca43e8cc3ce2701c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 33.874702
+      objectReference: {fileID: 0}
+    - target: {fileID: -5913172463669914825, guid: a0ffc66ff4d18914ca43e8cc3ce2701c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -0.40889195
+      objectReference: {fileID: 0}
+    - target: {fileID: -5913172463669914825, guid: a0ffc66ff4d18914ca43e8cc3ce2701c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -1.5157509
+      objectReference: {fileID: 0}
+    - target: {fileID: -5234448375175369897, guid: a0ffc66ff4d18914ca43e8cc3ce2701c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -18.686647
+      objectReference: {fileID: 0}
+    - target: {fileID: -5234448375175369897, guid: a0ffc66ff4d18914ca43e8cc3ce2701c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0.1688894
+      objectReference: {fileID: 0}
+    - target: {fileID: -5234448375175369897, guid: a0ffc66ff4d18914ca43e8cc3ce2701c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0.004327908
+      objectReference: {fileID: 0}
+    - target: {fileID: -1146057589223031379, guid: a0ffc66ff4d18914ca43e8cc3ce2701c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 44.912945
+      objectReference: {fileID: 0}
+    - target: {fileID: -1146057589223031379, guid: a0ffc66ff4d18914ca43e8cc3ce2701c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 11.445047
+      objectReference: {fileID: 0}
+    - target: {fileID: -1146057589223031379, guid: a0ffc66ff4d18914ca43e8cc3ce2701c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 19.132324
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: a0ffc66ff4d18914ca43e8cc3ce2701c, type: 3}
       propertyPath: m_Name
       value: Mario bros
+      objectReference: {fileID: 0}
+    - target: {fileID: 5361183549940808782, guid: a0ffc66ff4d18914ca43e8cc3ce2701c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 63.508484
+      objectReference: {fileID: 0}
+    - target: {fileID: 5361183549940808782, guid: a0ffc66ff4d18914ca43e8cc3ce2701c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -29.72411
+      objectReference: {fileID: 0}
+    - target: {fileID: 5361183549940808782, guid: a0ffc66ff4d18914ca43e8cc3ce2701c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -41.283165
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -503,7 +575,7 @@ Animator:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1170363770}
   m_Enabled: 1
-  m_Avatar: {fileID: 9000000, guid: a0ffc66ff4d18914ca43e8cc3ce2701c, type: 3}
+  m_Avatar: {fileID: 9000000, guid: 3af4d26e3719a7c4488a93e4d3d85f49, type: 2}
   m_Controller: {fileID: 9100000, guid: a8602f93a8fedd141aec95d570397813, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
